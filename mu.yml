@@ -8,4 +8,5 @@ service:
   - /*
   pipeline:
     source:
-      repo: git@github.com:najgit/mybasic
+      provider: GitHub
+      repo: najgit/mybasic
